@@ -3,7 +3,7 @@ Interface example use case.
 
 This module implements a digit classification system for the MNIST dataset using three 
 different models: Convolutional Neural Network (CNN), Random Forest (RF), and a Random 
-Model that generates random predictions. 
+Model that generates random predictions. Models itself are not implemented.
 
 
 Classes
