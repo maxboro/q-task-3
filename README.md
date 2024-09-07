@@ -4,7 +4,7 @@ As part of this task I create interface example use case.
 This module implements a digit classification system for the MNIST dataset using three different models: Convolutional Neural Network (CNN), Random Forest (RF), and a Random Model that generates random predictions. Models itself are not implemented.
 
 ## Usage
-To test the module with various models:
+Created and tested in Python 3.9.13. To test the module with various models:
 
 ```bash
 $ python interface.py
